@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Ruth Bayalew
+ I'm a passionate Software Engineering student with a vision for a future driven by code, creativity, and impact. Every line I write brings me one step closer to building solutions that matter. 
 <!--
 **Ruth-Bayalew/Ruth-Bayalew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
